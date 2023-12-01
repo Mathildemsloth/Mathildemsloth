@@ -1,5 +1,9 @@
-👋 Hi there! I'm Mathilde, a passionate master's student in Public Health Science at the University of Copenhagen. I'm currently immersed in  my master's thesis about spousal bereavement, where i'm using causal inference and prediction models. In my master's thesis and with previous work I have worked with register studies, applying my skills to unlock insights from real-world data.
+👋 Hi, I'm Mathilde, a Public Health Science master's student from the University of Copenhagen. Currently exploring spousal bereavement using causal inference and prediction models for my thesis. 
 
-💻 My coding arsenal includes SPSS, STATA, and R. I believe in the power of data to uncover meaningful insights and drive positive change. As I navigate the exciting intersection of health science, technology, and register studies, I'm dedicated to contributing my skills and insights to collaborative projects.
+🚀 Projects: Check out my latest project on Spousal Bereavement Analysis, where I apply data science to understand the impact of loss.
 
-🔍 Exploring the nuances of public health through the lens of data analysis is my forte.
+💡 Skills: Proficient in SPSS, STATA, and R. Experienced in register studies and passionate about using data for positive societal impact.
+
+🔗 Connect: LinkedIn, Twitter, Research Gate
+
+⚡ Fun Fact: I love combining my passion for health science with a good cup of coffee! ☕️ Let's code a healthier future together!
