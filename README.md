@@ -6,4 +6,4 @@
 
 🔗 Connect: LinkedIn, Twitter, Research Gate
 
-⚡ Fun Fact: I love combining my passion for health science with a good cup of coffee! ☕️ Let's code a healthier future together!
+
