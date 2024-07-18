@@ -1,4 +1,4 @@
-👋 Hi, I'm Mathilde, a Public Health Science master's student from the University of Copenhagen. Currently exploring spousal bereavement using causal inference and prediction models for my thesis. 
+👋 Hi, I'm Mathilde, a PhD student in Public Health and Epidemiology at the University of Copenhagen.
 
 🚀 Projects: Check out my latest project on Spousal Bereavement Analysis, where I apply data science to understand the impact of loss.
 
